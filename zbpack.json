@@ -1,0 +1,4 @@
+{
+    "build_command": "node ace build",
+    "start_command": "node bin/server.js"
+}
