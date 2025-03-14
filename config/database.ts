@@ -1,4 +1,4 @@
-import env from '#start/env'
+/* import env from '#start/env'
 import { defineConfig } from '@adonisjs/lucid'
 
 const dbConfig = defineConfig({
@@ -21,4 +21,4 @@ const dbConfig = defineConfig({
   },
 })
 
-export default dbConfig
+export default dbConfig */
