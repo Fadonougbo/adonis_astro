@@ -28,5 +28,6 @@ helper.txt
 essai.txt
 
 vite.config.ts
-build/vite.config.ts
+vite.config.js
+build/vite.config.js
 dist/vite.config.ts
