@@ -31,4 +31,5 @@ vite.config.ts
 vite.config.js
 build/vite.config.js
 build/vite.config.js.map
-dist/vite.config.ts
+dist/vite.config.js
+dist/vite.config.js.map
