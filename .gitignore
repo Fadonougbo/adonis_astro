@@ -27,9 +27,9 @@ yarn-error.log
 helper.txt
 essai.txt
 
-vite.config.ts
-vite.config.js
-build/vite.config.js
-build/vite.config.js.map
-dist/vite.config.js
-dist/vite.config.js.map
+# vite.config.ts
+# vite.config.js
+# build/vite.config.js
+# build/vite.config.js.map
+# dist/vite.config.js
+# dist/vite.config.js.map
