@@ -11,4 +11,4 @@ import router from '@adonisjs/core/services/router';
 
 router.on('/').render('pages/home')
 
-console.log('gautier,okok');
+console.log('gautierokok');
