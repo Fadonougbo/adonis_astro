@@ -27,4 +27,6 @@ yarn-error.log
 helper.txt
 essai.txt
 
-./vite.config.ts
+vite.config.ts
+build/vite.config.ts
+dist/vite.config.ts
