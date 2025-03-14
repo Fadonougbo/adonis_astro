@@ -1,0 +1,5 @@
+{
+    "build_command": "pnpm i --prod",
+    "start_command": "node bin/server.js",
+    "app_dir": "dist/"
+}
