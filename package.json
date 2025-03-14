@@ -4,8 +4,8 @@
   "type": "module",
   "license": "UNLICENSED",
   "scripts": { 
-    
-    "build": "node ace build && mv build dist",
+    "start": "node bin/server.js",
+    "build": "node ace build && mv build dist && pnpm i --prod",
     "dev": "node ace serve --hmr",
     "test": "node ace test",
     "lint": "eslint .",
